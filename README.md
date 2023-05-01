@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fcreativetim_official%2F10-best-admin-templates-to-get-you-started-with-laravel-and-vuejs-3k0&psig=AOvVaw0Dolv5nWyqNFf-ndiKmVHh&ust=1683035997726000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMj2qsmj1P4CFQAAAAAdAAAAABAE" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
